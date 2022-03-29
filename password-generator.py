@@ -1,6 +1,6 @@
 # Michael Jivan
 # 3/29/22
-# Simple script to get you a simple password with phrases
+# Simple script to get you a simple password with phrases, numbers and special characters
 
 import random 
 
